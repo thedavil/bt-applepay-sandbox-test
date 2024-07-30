@@ -1,2 +1,2 @@
 # bt-applepay-sandbox-test
-Braintre Apple Pay Sandbox Test
+Braintree Apple Pay Sandbox Test
